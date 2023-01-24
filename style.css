@@ -1,0 +1,149 @@
+
+
+
+footer, .main, ul {
+    background-color: black;
+    color: white;
+    list-style: none;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1230px;
+    margin-right:auto;
+    margin-left:auto;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+header {
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.first-page {
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.am {
+    margin-left: 100px;
+}
+
+div.main-item {
+    margin-left: 100px;
+
+}
+
+.button {
+background-color: blue;
+color: white;
+border: 1px solid blue;
+border-radius: 30px;
+padding: 10px 20px;
+min-width: 45px;
+display: inline-block;
+text-transform: uppercase;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 5px;
+margin-bottom: 15px;
+text-align:center;
+
+}
+
+.button:hover {
+    background-color: blueviolet;
+    border: blueviolet;
+    transition-property: color;
+    transition-duration: 0.1s;
+    box-shadow: inset 50px 50px 300px rgb(182, 88, 182);
+}
+
+.navigation-list {
+    margin-bottom: 0;
+    list-style-type: none;
+    padding-left: 0;
+    display:inline;
+}
+
+a.navigation-list:hover {
+    opacity: 0;
+}
+
+li.link {
+    display:inline
+}
+
+
+
+
+
+
+h1, h2, h3, .value {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+
+h1, .value {
+    font-size: 90px;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 20px ;
+}
+
+h3 {
+    
+    font-size: 70px;
+    margin-top: 0;
+}
+
+.section-description {
+     font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;  
+    max-width: 470px;
+    margin-bottom: 88px;
+}
+
+.value-comment {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;  
+}
+
+a, ul {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+.second-page {
+    background-color: white;
+    color: black;
+    margin-top: 130px;
+    margin-bottom: 74px;
+}
+
+.menu-item {
+    background-color: white;
+    color: black;
+    padding-left: 200px;
+}
+
+h3.page-title {
+    margin-top:0;
+}
+.value.smaller-text {
+    font-size: 72px;
+}
+
+
+
